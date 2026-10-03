@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-79fea6d5b7.kedod.cn/sitemap.xml
